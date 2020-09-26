@@ -2,7 +2,7 @@
 
 A slightly modified version of the UiO master thesis template for latex.
 This version introduces two quality of life changes:
-1. You do need to copy the contents of the duoforside folder into you latex folder, only the folder itself, avoiding a bloated directory.
+1. You do **not** need to copy the contents of the duoforside folder into you latex folder, only the folder itself, avoiding a bloated directory.
 2. It now works with revtex4-1, woop woop.
 
 ## How to use
